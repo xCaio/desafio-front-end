@@ -1,0 +1,16 @@
+.button{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    width: 195px;
+    height: 55px;
+    color: #FFF;
+    font-size: 18px;
+    text-decoration: none;
+    background-color: #FF171B;
+    border-radius: 8px;
+    text-align: center;
+    align-items: center;
+    text-align: center;
+
+}

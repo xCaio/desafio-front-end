@@ -1,0 +1,12 @@
+.buttons{
+    display: flex;
+    text-align: center;
+    width: 600px;
+    flex-direction: row;
+    align-items: center;
+    /* background-color: yellow; */
+    justify-content: space-around;
+}
+/* .buttons .button{
+
+} */

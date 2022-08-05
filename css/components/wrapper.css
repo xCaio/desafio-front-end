@@ -1,0 +1,6 @@
+.wrapper{
+    display: flex;
+}
+.wrapper .text{
+    margin-left: 16px;
+}

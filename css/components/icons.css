@@ -1,0 +1,5 @@
+.icons{
+    display: flex;
+    width: 176px;
+    justify-content: space-between;
+}
