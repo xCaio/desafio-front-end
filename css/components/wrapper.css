@@ -1,5 +1,6 @@
 .wrapper{
     display: flex;
+    padding-bottom: 42px;
 }
 .wrapper .text{
     margin-left: 16px;
