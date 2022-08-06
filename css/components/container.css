@@ -9,6 +9,8 @@
 }
 .section .container{
     padding: 95px 144px;
-
-
+}
+.foto{
+    margin-left: -9px;
+    z-index: 1;
 }
